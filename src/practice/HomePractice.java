@@ -11,6 +11,8 @@ public class HomePractice {
 		System.out.println(name + "is tired"); 	
 		
 		System.out.println(name + "is sleeping");
+		
+		System.out.println(name + "woke up"); 
 	}
 
 }
