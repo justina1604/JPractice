@@ -8,7 +8,7 @@ public class HomePractice {
 		
 		System.out.println(name);
 		
-				
+		System.out.println(name + "is tired"); 	
 		
 		
 	}
